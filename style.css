@@ -25,3 +25,12 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+h2{
+    color: black;
+    text-align: center;
+    font-size: 12vw;
+    line-height: 1em;
+    z-index: 1000;
+    font-weight: 900;
+}

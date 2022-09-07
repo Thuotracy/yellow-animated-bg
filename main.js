@@ -14,6 +14,14 @@ function animateBlocks(){
         translateY: function(){
             return anime.random(-500,500);
         },
+        scale: function(){
+            return anime.random(1,5);
+        },
+
+        easing: 'linear',
+        duration: 3000,
+        delay: anime.stagger(10),
+        complete: animateBlocks
     })
 }
 

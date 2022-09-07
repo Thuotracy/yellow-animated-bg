@@ -29,8 +29,8 @@ body{
 h2{
     color: black;
     text-align: center;
-    font-size: 12vw;
+    font-size: 10vw;
     line-height: 1em;
     z-index: 1000;
-    font-weight: 900;
+    font-weight: 700;
 }
